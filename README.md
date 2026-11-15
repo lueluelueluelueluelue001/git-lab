@@ -23,3 +23,9 @@ git push -u origin main
 | 看历史 | `git log --oneline` / `git lg` |
 | 推到远程 | `git push` |
 | 拉取更新 | `git pull` |
+
+## 已验证
+
+- SSH 推送：`main` → `origin/main` ✅
+- `gh` CLI 登录 + SSH 协议 ✅
+- 一次完整的分支 → PR → 合并流程 ✅
