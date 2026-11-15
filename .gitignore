@@ -1,0 +1,20 @@
+# 依赖与缓存
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# 密钥与本地配置
+.env
+*.pem
+*.key
+
+# 日志与临时文件
+*.log
+tmp/
+.tmp/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
